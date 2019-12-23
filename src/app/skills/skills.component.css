@@ -1,0 +1,68 @@
+.normal-size {
+  font-size: 20px;
+}
+.section {
+  padding-bottom: 8rem;
+}
+
+.section.skills {
+  margin-top: -14rem;
+  padding-bottom: 1rem;
+}
+
+h2 {
+  color: white;
+}
+
+.column {
+  padding-top: 1rem;
+}
+
+.section.skills .box {
+  padding: 0;
+}
+.blue-color {
+  color: cornflowerblue;
+}
+
+background-color {
+  background: #373b44; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #373b44, #4286f4); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #373b44,
+    #4286f4
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: 100% 100%;
+  overflow-x: hidden;
+}
+
+.text-centered {
+  text-align: center !important;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  line-height: 2;
+}
+
+.headline {
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.box {
+  border-radius: 12px;
+}
+
+.is-primary {
+  background-color: cornflowerblue;
+  color: #fff;
+  line-height: 1.5;
+}
+
+.push-left {
+  margin-right: 2rem;
+}
